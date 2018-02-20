@@ -1,4 +1,4 @@
-public class Consecutive {
+﻿public class Consecutive {
 
     public static void main(String[] args) throws Exception {
 
@@ -58,6 +58,5 @@ public class Consecutive {
         return gcd(a, b % a);
 
     }
-
 
 }

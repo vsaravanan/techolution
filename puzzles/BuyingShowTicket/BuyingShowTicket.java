@@ -1,4 +1,4 @@
-import java.util.Arrays;
+﻿import java.util.Arrays;
 
 public class BuyingShowTicket {
     public static void main(String[] args) throws Exception {
@@ -45,8 +45,8 @@ public class BuyingShowTicket {
         System.out.println(String.format("Final answer : Jesse's waiting time is %d seconds", ticketsIssued));
 
         return ticketsIssued;
-    }
 
+    }
 
 
 
