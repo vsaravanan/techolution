@@ -1,0 +1,19 @@
+a 3, k 5, p 1
+Return value : daysPassed 1
+a 4, k 5, p 1
+daysPassed 2, sumOfA 8, sumOfK 10
+Return value : daysPassed 2
+a 5, k 5, p 1
+Return value : daysPassed -1
+a 3, k 4, p 10
+daysPassed 2, sumOfA 6, sumOfK 8
+daysPassed 3, sumOfA 9, sumOfK 12
+daysPassed 4, sumOfA 12, sumOfK 16
+daysPassed 5, sumOfA 15, sumOfK 20
+daysPassed 6, sumOfA 18, sumOfK 24
+daysPassed 7, sumOfA 21, sumOfK 28
+daysPassed 8, sumOfA 24, sumOfK 32
+daysPassed 9, sumOfA 27, sumOfK 36
+daysPassed 10, sumOfA 30, sumOfK 40
+daysPassed 11, sumOfA 33, sumOfK 44
+Return value : daysPassed 11

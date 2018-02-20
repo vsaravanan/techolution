@@ -1,0 +1,32 @@
+totalTickets : 20
+[1, 6, 3, 4, 5] ticketsIssued : 1
+[1, 5, 3, 4, 5] ticketsIssued : 2
+[1, 5, 2, 4, 5] ticketsIssued : 3
+[1, 5, 2, 3, 5] ticketsIssued : 4
+[1, 5, 2, 3, 4] ticketsIssued : 5
+[0, 5, 2, 3, 4] ticketsIssued : 6
+[0, 4, 2, 3, 4] ticketsIssued : 7
+[0, 4, 1, 3, 4] ticketsIssued : 8
+[0, 4, 1, 2, 4] ticketsIssued : 9
+[0, 4, 1, 2, 3] ticketsIssued : 10
+[0, 4, 1, 2, 3] ticketsIssued : 
+[0, 3, 1, 2, 3] ticketsIssued : 11
+[0, 3, 0, 2, 3] ticketsIssued : 12
+Final answer : Jesse's waiting time is 12 seconds
+totalTickets : 4
+[0, 1, 1, 1] ticketsIssued : 1
+Final answer : Jesse's waiting time is 1 seconds
+totalTickets : 15
+[4, 5, 2, 3] ticketsIssued : 1
+[4, 4, 2, 3] ticketsIssued : 2
+[4, 4, 1, 3] ticketsIssued : 3
+[4, 4, 1, 2] ticketsIssued : 4
+[3, 4, 1, 2] ticketsIssued : 5
+[3, 3, 1, 2] ticketsIssued : 6
+[3, 3, 0, 2] ticketsIssued : 7
+[3, 3, 0, 1] ticketsIssued : 8
+[2, 3, 0, 1] ticketsIssued : 9
+[2, 2, 0, 1] ticketsIssued : 10
+[2, 2, 0, 1] ticketsIssued : 
+[2, 2, 0, 0] ticketsIssued : 11
+Final answer : Jesse's waiting time is 11 seconds

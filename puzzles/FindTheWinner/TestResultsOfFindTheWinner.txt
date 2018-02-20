@@ -1,0 +1,8 @@
+andrea 1 points -1 total 0 maria 2 points 1 total 0   skipped
+andrea 2 points 1 total 1 maria 1 points -1 total -1   
+ andrea 3 points 0 total 1 maria 3 points 0 total -1   skipped
+Maria
+andrea 1 points -1 total -1 maria 2 points 1 total 1   
+ andrea 2 points 1 total -1 maria 1 points -1 total 1   skipped
+andrea 3 points 0 total -1 maria 3 points 0 total 1   
+Andrea
